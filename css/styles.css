@@ -5,3 +5,49 @@
 .portal-list {
   float: right;
 }
+
+.column1 {
+  border-style: solid;
+  border-width: 2px;
+  padding: 10px;
+}
+
+.column1 h2 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px;
+  margin: 5px;
+  background-color: #CEF2E0;
+}
+
+.column2 {
+  border-style: solid;
+  border-width: 2px;
+  padding: 10px;
+}
+
+.column2 h2 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px;
+  margin: 5px;
+  background-color: #CEDFF2;
+}
+
+#boat {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  float: left;
+}
+
+#pam, #soccer, #john {
+  margin-left: 10px;
+  margin-bottom: 10px;
+  float: right;
+}
