@@ -52,6 +52,11 @@
   float: right;
 }
 
+#cambell {
+  float: left;
+  margin-right: 10px;
+}
+
 .test {
   float:right;
 }
@@ -62,4 +67,21 @@
 
 .well {
   margin-top: 28px;
+}
+
+.george {
+  margin-top: 125px;
+}
+
+.feature {
+  float: right;
+}
+
+.feature p {
+  float:left;
+}
+
+.feature li {
+  display: inline;
+
 }
